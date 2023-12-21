@@ -1,2 +1,4 @@
 RSSaggretator
 .env
+docker-compose.yml
+goose_install.sh
